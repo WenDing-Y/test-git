@@ -8,6 +8,6 @@ public class Test2 {
 
     public static void main(String[] args) {
         System.out.println("this is Test2");
-        System.out.println("改为删除");
+        System.out.println("删除");
     }
 }
