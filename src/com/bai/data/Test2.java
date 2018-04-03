@@ -8,5 +8,6 @@ public class Test2 {
 
     public static void main(String[] args) {
         System.out.println("this is Test2");
+        System.out.println("在git网上直接修改")
     }
 }
